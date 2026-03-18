@@ -140,8 +140,8 @@ React Developer Learner 🚀
 ## Contact
 ![screenshot porject](https://github.com/SaiyamDoshi7/Integrate-Bootstrap-template/blob/499c901f6c53aaeeb1cc425aa8360f9c86c1cc76/Screenshot%202026-03-18%20211703.png)
 
-## Services
-![screenshot porject](https://github.com/SaiyamDoshi7/Integrate-Bootstrap-template/blob/c52f923e6348cfbaa38673bce5824fab0ce2d654/Screenshot%202026-03-18%20211434.png)
+## Footer
+![screenshot porject](https://github.com/SaiyamDoshi7/Integrate-Bootstrap-template/blob/32978bdd708eb736a3718f9712261f91956f7956/Screenshot%202026-03-18%20211808.png)
 
 ## Let's Talk
 ![screenshot porject](https://github.com/SaiyamDoshi7/Integrate-Bootstrap-template/blob/3a0867039742c06191994caa604e2c28348135c2/Screenshot%202026-03-18%20211733.png)
