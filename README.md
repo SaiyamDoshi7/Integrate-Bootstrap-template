@@ -137,11 +137,8 @@ React Developer Learner 🚀
 ## Portfolio
 ![screenshot porject](https://github.com/SaiyamDoshi7/Integrate-Bootstrap-template/blob/89b57455a6a43c2b59933a0cc90f8a3bf46271ed/Screenshot%202026-03-18%20211643.png)
 
-## Services
-![screenshot porject](https://github.com/SaiyamDoshi7/Integrate-Bootstrap-template/blob/c52f923e6348cfbaa38673bce5824fab0ce2d654/Screenshot%202026-03-18%20211434.png)
-
-## Services
-![screenshot porject](https://github.com/SaiyamDoshi7/Integrate-Bootstrap-template/blob/c52f923e6348cfbaa38673bce5824fab0ce2d654/Screenshot%202026-03-18%20211434.png)
+## Contact
+![screenshot porject](https://github.com/SaiyamDoshi7/Integrate-Bootstrap-template/blob/499c901f6c53aaeeb1cc425aa8360f9c86c1cc76/Screenshot%202026-03-18%20211703.png)
 
 ## Services
 ![screenshot porject](https://github.com/SaiyamDoshi7/Integrate-Bootstrap-template/blob/c52f923e6348cfbaa38673bce5824fab0ce2d654/Screenshot%202026-03-18%20211434.png)
